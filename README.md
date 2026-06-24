@@ -1,10 +1,8 @@
 # ASAL Resilience Monitor: A Data-Driven Early Warning System
-This project creates a **Crisis Resilience and Response Dashboard** (CRRD) that can be modified and used for the specific region and criteria needed. For this project, it has been created to monitor conditions in the northern counties of Kenya. 
+This project creates a **Crisis Resilience and Response Dashboard** (CRRD) that can be modified and used for the specific region and criteria needed. For this project, it has been created to monitor conditions in the northern counties of Kenya. More detailed information about the project can be found on the project wiki: [[https://github.com/stephensmw/CRRD/wiki/]]. 
 
 ## Objective
 Using "live" data, create a dashboard that displays data aggregation, analytical frameworks, and data visualization. For this specific exercise, I am using publicly available and open source data sources to analyze and visualize a dashboard displaying climate-induced resource conflicts in the Arid and Semi-Arid Lands (ASALS) of Northern Kenya. 
-
-## Findings
 
 ## Methodology
 ### Data Acquisition 
@@ -29,12 +27,6 @@ The dashboard serves as a decision-support tool, employing the following visuali
 Data Validation: Cross-referencing against periodic reports from agencies like FEWS NET ensures the simulated trends align with historical ground truths.
 
 Methodological Constraints: As this is a simulation tool, it does not account for all socioeconomic variables; the index serves as a proxy for risk rather than an exhaustive predictive model.
-
-## Impact/Policy Implications 
-
-**Intelligence Community:** Cross-border resource competition in Northern Kenya between local tribes and the Kenyan-Somali border creates an area of instability that can lead to outbreaks of violence or threats to national security. 
-
-**NGOs:** The ASALS of Kenya are an underserved population facing food and water insecurity due to draughts. An increase in draught conditions not only means an increase need of support, but also an increase in risk to the safety of aid workers and their resources. 
 
 
 
