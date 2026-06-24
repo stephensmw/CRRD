@@ -1,5 +1,5 @@
-# CRRD
-Crisis Resilience and Response Dashboard - Data Visualization and Analysis
+# ASAL Resilience Monitor: A Data-Driven Early Warning System
+This project creates a Crisis Resilience and Response Dashboard that can be modified and used for the specific region and criteria needed. For this project, it has been created to monitor conditions in the northern counties of Kenya. 
 
 ## Objective
 Using "live" data, create a dashboard that displays data aggregation, analytical frameworks, and data visualization. For this specific exercise, I am using publicly available and open source data sources to analyze and visualize a dashboard displaying climate-induced resource conflicts in the Arid and Semi-Arid Lands (ASALS) of Northern Kenya. 
